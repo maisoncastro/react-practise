@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Here, I'm practising my React.js skills through the following of a YouTube Video. I believe that learning through practise is ideal in learning efficiently (albeit, it takes time)
