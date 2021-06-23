@@ -23,7 +23,7 @@ const Projects = () => (
           </CardInfo>
           <div>
             <TitleContent>
-              stacktrace
+              Stack
             </TitleContent>
             <TagList>
               {tags.map((tag, i) => (
@@ -31,6 +31,14 @@ const Projects = () => (
               ))}
             </TagList>
           </div>
+          <UtilityList>
+            <ExternalLinks href={visit}>
+              Code
+            </ExternalLinks>
+            <ExternalLinks href={source}>
+              Source
+            </ExternalLinks>
+          </UtilityList>
         </BlogCard>
       ))}
     </GridContainer>
