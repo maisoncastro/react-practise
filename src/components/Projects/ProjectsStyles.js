@@ -38,7 +38,6 @@ export const TitleContent = styled.div`
   width: 100%;
 `;
 
-
 export const HeaderThree = styled.h3`
   font-weight: 500;
   letter-spacing: 2px;
