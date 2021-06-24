@@ -9,12 +9,12 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome to <br />
-        My Practise Portfolio
+        My Practice Portfolio
       </SectionTitle>
       <SectionText>
         This is a practise portfolio that I created in order to better my training in the latest technologies used in webtech companies across the globe.
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More!</Button>
+      <Button onClick={() => window.location = 'https://reactjs.org/'}>Learn More!</Button>
     </LeftSection>
   </Section>
 );
